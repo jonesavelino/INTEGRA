@@ -6,7 +6,7 @@ INTEGRA é uma solução para integrar dados de fontes heterogêneas baseado em 
 A abordagem de integração de dados INTEGRA oferce um conjunto de etapas e procedimentos para efetuar a integração de fontes de dados distintas.
 Além de tratar os casos mais básicos de integração de dados, o INTEGRA é capaz de integrar fontes de dados heterogêneas quando a instância de uma das fontes age como descritor na outra fonte.
 
-# Prerrequisito
+# Pré-requisito
 
 Este projeto possui as seguintes dependências:
 
