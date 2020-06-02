@@ -3,8 +3,8 @@ INTEGRA é uma solução para integrar dados de fontes heterogêneas baseado em 
 
 # Descrição do Projeto
 
-A abordagem de integração de dados INTEGRA oferce um conjunto de etapas e procedimentos passo a passo de como efetuar as Integração de Fontes de Dados distintas.
-A integração de fontes de dados heterogêneas sempre foi um desafio na área de banco de dados, principalmente quando a instância de uma das fontes age como descritor na outra fonte.
+A abordagem de integração de dados INTEGRA oferce um conjunto de etapas e procedimentos para efetuar a integração de fontes de dados distintas.
+Além de tratar os casos mais básicos de integração de dados, o INTEGRA é capaz de integrar fontes de dados heterogêneas quando a instância de uma das fontes age como descritor na outra fonte.
 
 # Prerrequisito
 
@@ -15,6 +15,7 @@ Este projeto possui as seguintes dependências:
 - [Pentado PDI - Kettle 8.2] (https://sourceforge.net/projects/pentaho/) para rodar a solução INTEGRATeS (conjunto de arquivos .ktr)
 - [ETL4LOD Plus] (https://github.com/johncurcio/ETL4LODPlus) para rodar e utilizar as bibliotecas de triplificação 
 - [LIMES] (https://github.com/dice-group/LIMES) para rodar a solução de descoberta de ligações
+- [Openlink Virtuoso] (https://virtuoso.openlinksw.com/) para armazenar os dados dos _datasets_ e os _matchers_
 
 # Instalação
 
