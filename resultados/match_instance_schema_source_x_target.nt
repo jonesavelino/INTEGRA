@@ -1,0 +1,3 @@
+<http://datalink.org/software/redmine> <http://datalink.org/match/mldi#sameResourceAs> <http://datalink.org/redmine> .
+<http://datalink.org/software/testlink> <http://datalink.org/match/mldi#sameResourceAs> <http://datalink.org/testlink> .
+<http://datalink.org/software/svn> <http://datalink.org/match/mldi#sameResourceAs> <http://datalink.org/svn> .
