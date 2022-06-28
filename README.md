@@ -28,6 +28,8 @@ Este projeto possui as seguintes dependências:
 # Deploy
 - Executar o comando: mvn clean install
 
+# Publicação de Artigo Científico
+- AVELINO, Jones de Oliveira; CORDEIRO, Kelli de Faria; CAVALCANTI, Maria Cláudia. An RDF based approach for integrating data at different levels of abstraction. In: SIMPÓSIO BRASILEIRO DE SISTEMAS MULTIMÍDIA E WEB (WEBMEDIA), 1. , 2020, Evento Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2020 . p. 59-66. Disponível em: https://sol.sbc.org.br/index.php/webmedia/article/view/13662
 
 
 
